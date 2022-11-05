@@ -1,4 +1,4 @@
-## F**K Assignments
+## Fast Assignments
 
 ### Why fassignments?
 I am too lazy too open up a LibreWord/MS Word and fill up
