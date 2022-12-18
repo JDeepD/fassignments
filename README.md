@@ -1,14 +1,13 @@
 ## Fast Assignments
 
 ### Why fassignments?
-I am too lazy too open up a LibreWord/MS Word and fill up
-data for coverpage every single time. Its boring and
+Opening up a LibreWord/MS Word and fill up
+data for coverpage is boring and
 wastes a lot of time doing the same thing every single week.
 
 ### How fassignments?
 It uses Flask as backend and PyFPDF2 for generating the pdf.
-For frontend, it uses Bootstrap (I am too lazy to
-do anything fancier in the Frontend)
+For frontend, it uses Bootstrap.
 
 ### What is fassignments?
 Its a web app to generate the coverpage for assignments.
